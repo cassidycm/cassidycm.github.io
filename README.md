@@ -6,8 +6,10 @@
 - Implemented classical statistical models and methods with scikit-learn and statsmodels 
 - Built neural networks with Keras/TensorFlow and PyTorch
 - Created forecasting models with time series data  
+
 **Profiled social media users with probabilistic topic modeling**
 - Data mining with unsupervised machine learning and sentiment analysis 
+
 **Detected cyberbullying with Natural Language Processing**
 - Productionized neural net classifier utilizing text embedding methods on tweets 
 
